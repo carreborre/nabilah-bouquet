@@ -12,7 +12,7 @@ git init
 git add .
 git commit -m "Initial: bouquet for Nabilah"
 git branch -M main
-git remote add origin https://github.com/<your-username>/nabilah-bouquet.git
+git remote add origin https://github.com/carreborre/nabilah-bouquet.git
 git push -u origin main
 ```
 
